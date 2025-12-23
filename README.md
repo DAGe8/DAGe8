@@ -11,7 +11,6 @@ Transitioning into cybersecurity with a focus on building strong technical found
 - 🎓 Completed: *Introduction to Programming with Python* (University of Patras)
 - 🔐 Currently learning: Cybersecurity fundamentals, network security, SIEM
 - 💻 Working on: Python security projects and CTF challenges
-- 🥊 Training: Kickboxing 3x/week for discipline and focus
 
 ---
 

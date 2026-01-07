@@ -39,7 +39,8 @@ Python application for weather predictions
 ## Certifications & Learning
 
 - ✅ Python Programming Certificate (University of Patras)
-- 🔄 Cisco Introduction to Cybersecurity (in progress)
+- ✅ Cisco Introduction to Cybersecurity
+- 🔄 Cisco Cybersecurity Essentials (National and Kapodistrian University of Athens) (in progress)
 - 🔄 TryHackMe Pre-Security Path (in progress)
 
 ---

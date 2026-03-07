@@ -6,50 +6,13 @@
 
 ## About Me
 
-Transitioning into cybersecurity with a focus on building strong technical foundations in programming, security principles, and hands-on practical skills.
+Cybersecurity Analyst & Python Developer
 
-- 🎓 Completed: *Introduction to Programming with Python* (University of Patras)
-- 🔐 Currently learning: Cybersecurity fundamentals, network security, SIEM
-- 💻 Working on: Python security projects and CTF challenges
+🛡️ Focus: Vulnerability Management & Security Automation.
+🎓 Education: Python Specialization (Univ. of Patras) | Cisco Cybersecurity Essentials (NKUA).
+🎯 Certification Path: Preparing for Cisco CCST & CompTIA Security+.
+🐍 Projects: Building tools to automate Reconnaissance and Vulnerability Data Analysis.
 
----
-
-## Skills & Technologies
-
-**Programming:**
-- Python
-
-**Currently Learning:**
-- Cisco Networking
-- TryHackMe Labs
-- Security+ preparation
-
----
-
-## Projects
-
-### 🔤 Text Generator
-Python-based text generation application
-
-### 🌤️ Weather Forecast App
-Python application for weather predictions
-
----
-
-## Certifications & Learning
-
-- ✅ Python Programming Certificate (University of Patras)
-- ✅ Cisco Introduction to Cybersecurity
-- 🔄 Cisco Cybersecurity Essentials (National and Kapodistrian University of Athens) (in progress)
-
----
-
-## Connect
-
-📧 Email: [gerardisdimitrios@gmail.com](mailto:gerardisdimitrios@gmail.com)  
-💼 LinkedIn: [dimitrios-gerardis](https://www.linkedin.com/in/dimitrios-gerardis-a79006372)  
-🏴‍☠️ TryHackMe: [DAGe](https://tryhackme.com/p/DAGe)
-
----
+“Merging 6+ years of Technical Operations experience with a developer's mindset to secure digital environments.”
 
 *Building a career in cybersecurity, one commit at a time.*
